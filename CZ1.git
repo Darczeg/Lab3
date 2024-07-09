@@ -1,4 +1,4 @@
-git config --global user.email "blackybiagio@gmail.com"
+gitconfig --global user.email "blackybiagio@gmail.com"
 git config --global user.name "Błażej"
 git init
 git add komendy.sh
